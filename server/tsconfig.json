@@ -1,0 +1,36 @@
+{
+  "extends": "./tsconfig.paths.json",
+  "compilerOptions": {
+    "module": "commonjs",
+    "declaration": true,
+    "incremental": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
+    "removeComments": true,
+    "sourceMap": true,
+    "target": "es2022",
+    "outDir": "lib",
+    "importHelpers": true,
+    "skipLibCheck": true,
+    "baseUrl": ".",
+    "paths": {
+       "@functions/*": ["src/functions/*"],
+      "@libs/*": ["src/libs/*"]
+    }
+  },
+  "include": ["src/**/**.ts", "serverless.ts"],
+  "exclude": [
+    "node_modules/**/*",
+    ".serverless/**/*",
+    ".webpack/**/*",
+    "_warmup/**/*",
+    ".vscode/**/*"
+  ],
+  "ts-node": {
+    "require": ["tsconfig-paths/register"]
+  }
+}

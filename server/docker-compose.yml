@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  db:
+    container_name: schematical-web-tools-lambda
+    image: mongo
+    environment:
+      MONGO_INITDB_ROOT_DATABASE: schematical-web-tools
+      MONGO_INITDB_ROOT_USERNAME: hello
+      MONGO_INITDB_ROOT_PASSWORD: world
+    ports:
+      - 27017-27019:27017-27019

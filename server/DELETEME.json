@@ -1,0 +1,3583 @@
+[
+  {
+    "fdc_id": "171618",
+    "data_type": "sr_legacy_food",
+    "description": "Blood sausage",
+    "food_category_id": "",
+    "publication_date": "2019-04-01",
+    "_score": 2,
+    "_search": "common sage",
+    "_score2": 94,
+    "nutrients": [
+      {
+        "id": "1625447",
+        "fdc_id": "171618",
+        "nutrient_id": "1283",
+        "amount": "0.0",
+        "data_points": "0",
+        "derivation_id": "41",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1283",
+          "name": "Phytosterols",
+          "unit_name": "MG",
+          "nutrient_nbr": "636",
+          "rank": "15800.0"
+        }
+      },
+      {
+        "id": "1625423",
+        "fdc_id": "171618",
+        "nutrient_id": "1110",
+        "amount": "52.0",
+        "data_points": "0",
+        "derivation_id": "10",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1110",
+          "name": "Vitamin D (D2 + D3), International Units",
+          "unit_name": "IU",
+          "nutrient_nbr": "324",
+          "rank": "8650.0"
+        }
+      },
+      {
+        "id": "1625480",
+        "fdc_id": "171618",
+        "nutrient_id": "1167",
+        "amount": "1.2",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1167",
+          "name": "Niacin",
+          "unit_name": "MG",
+          "nutrient_nbr": "406",
+          "rank": "6600.0"
+        }
+      },
+      {
+        "id": "1625459",
+        "fdc_id": "171618",
+        "nutrient_id": "1177",
+        "amount": "5.0",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1177",
+          "name": "Folate, total",
+          "unit_name": "UG",
+          "nutrient_nbr": "417",
+          "rank": "6900.0"
+        }
+      },
+      {
+        "id": "1625398",
+        "fdc_id": "171618",
+        "nutrient_id": "1057",
+        "amount": "0.0",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1057",
+          "name": "Caffeine",
+          "unit_name": "MG",
+          "nutrient_nbr": "262",
+          "rank": "18300.0"
+        }
+      },
+      {
+        "id": "1625469",
+        "fdc_id": "171618",
+        "nutrient_id": "1265",
+        "amount": "8.3",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1265",
+          "name": "SFA 16:0",
+          "unit_name": "G",
+          "nutrient_nbr": "613",
+          "rank": "10700.0"
+        }
+      },
+      {
+        "id": "1625418",
+        "fdc_id": "171618",
+        "nutrient_id": "1225",
+        "amount": "0.91",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1225",
+          "name": "Glycine",
+          "unit_name": "G",
+          "nutrient_nbr": "516",
+          "rank": "17800.0"
+        }
+      },
+      {
+        "id": "1625474",
+        "fdc_id": "171618",
+        "nutrient_id": "1271",
+        "amount": "0.0",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1271",
+          "name": "PUFA 20:4",
+          "unit_name": "G",
+          "nutrient_nbr": "620",
+          "rank": "14700.0"
+        }
+      },
+      {
+        "id": "1625473",
+        "fdc_id": "171618",
+        "nutrient_id": "1270",
+        "amount": "0.26",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1270",
+          "name": "PUFA 18:3",
+          "unit_name": "G",
+          "nutrient_nbr": "619",
+          "rank": "13900.0"
+        }
+      },
+      {
+        "id": "1625419",
+        "fdc_id": "171618",
+        "nutrient_id": "1226",
+        "amount": "1.0",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1226",
+          "name": "Proline",
+          "unit_name": "G",
+          "nutrient_nbr": "517",
+          "rank": "17900.0"
+        }
+      },
+      {
+        "id": "1625456",
+        "fdc_id": "171618",
+        "nutrient_id": "1162",
+        "amount": "0.0",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1162",
+          "name": "Vitamin C, total ascorbic acid",
+          "unit_name": "MG",
+          "nutrient_nbr": "401",
+          "rank": "6300.0"
+        }
+      },
+      {
+        "id": "1625412",
+        "fdc_id": "171618",
+        "nutrient_id": "1211",
+        "amount": "0.57",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1211",
+          "name": "Threonine",
+          "unit_name": "G",
+          "nutrient_nbr": "502",
+          "rank": "16400.0"
+        }
+      },
+      {
+        "id": "1625400",
+        "fdc_id": "171618",
+        "nutrient_id": "1213",
+        "amount": "1.39",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1213",
+          "name": "Leucine",
+          "unit_name": "G",
+          "nutrient_nbr": "504",
+          "rank": "16600.0"
+        }
+      },
+      {
+        "id": "1625429",
+        "fdc_id": "171618",
+        "nutrient_id": "1114",
+        "amount": "1.3",
+        "data_points": "0",
+        "derivation_id": "10",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1114",
+          "name": "Vitamin D (D2 + D3)",
+          "unit_name": "UG",
+          "nutrient_nbr": "328",
+          "rank": "8700.0"
+        }
+      },
+      {
+        "id": "1625406",
+        "fdc_id": "171618",
+        "nutrient_id": "1223",
+        "amount": "1.35",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1223",
+          "name": "Aspartic acid",
+          "unit_name": "G",
+          "nutrient_nbr": "514",
+          "rank": "17600.0"
+        }
+      },
+      {
+        "id": "1625471",
+        "fdc_id": "171618",
+        "nutrient_id": "1268",
+        "amount": "15.0",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1268",
+          "name": "MUFA 18:1",
+          "unit_name": "G",
+          "nutrient_nbr": "617",
+          "rank": "12100.0"
+        }
+      },
+      {
+        "id": "1625435",
+        "fdc_id": "171618",
+        "nutrient_id": "1186",
+        "amount": "0.0",
+        "data_points": "0",
+        "derivation_id": "68",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1186",
+          "name": "Folic acid",
+          "unit_name": "UG",
+          "nutrient_nbr": "431",
+          "rank": "7000.0"
+        }
+      },
+      {
+        "id": "1625485",
+        "fdc_id": "171618",
+        "nutrient_id": "1051",
+        "amount": "47.3",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1051",
+          "name": "Water",
+          "unit_name": "G",
+          "nutrient_nbr": "255",
+          "rank": "100.0"
+        }
+      },
+      {
+        "id": "1625462",
+        "fdc_id": "171618",
+        "nutrient_id": "1185",
+        "amount": "0.0",
+        "data_points": "0",
+        "derivation_id": "41",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1185",
+          "name": "Vitamin K (phylloquinone)",
+          "unit_name": "UG",
+          "nutrient_nbr": "430",
+          "rank": "8800.0"
+        }
+      },
+      {
+        "id": "1625409",
+        "fdc_id": "171618",
+        "nutrient_id": "1120",
+        "amount": "0.0",
+        "data_points": "0",
+        "derivation_id": "68",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1120",
+          "name": "Cryptoxanthin, beta",
+          "unit_name": "UG",
+          "nutrient_nbr": "334",
+          "rank": "7460.0"
+        }
+      },
+      {
+        "id": "1625461",
+        "fdc_id": "171618",
+        "nutrient_id": "1184",
+        "amount": "0.0",
+        "data_points": "0",
+        "derivation_id": "41",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1184",
+          "name": "Vitamin K (Dihydrophylloquinone)",
+          "unit_name": "UG",
+          "nutrient_nbr": "429",
+          "rank": "8900.0"
+        }
+      },
+      {
+        "id": "1625428",
+        "fdc_id": "171618",
+        "nutrient_id": "1187",
+        "amount": "5.0",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1187",
+          "name": "Folate, food",
+          "unit_name": "UG",
+          "nutrient_nbr": "432",
+          "rank": "7100.0"
+        }
+      },
+      {
+        "id": "1625416",
+        "fdc_id": "171618",
+        "nutrient_id": "1222",
+        "amount": "1.05",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1222",
+          "name": "Alanine",
+          "unit_name": "G",
+          "nutrient_nbr": "513",
+          "rank": "17500.0"
+        }
+      },
+      {
+        "id": "1625444",
+        "fdc_id": "171618",
+        "nutrient_id": "1275",
+        "amount": "0.88",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1275",
+          "name": "MUFA 16:1",
+          "unit_name": "G",
+          "nutrient_nbr": "626",
+          "rank": "11700.0"
+        }
+      },
+      {
+        "id": "1625479",
+        "fdc_id": "171618",
+        "nutrient_id": "1293",
+        "amount": "3.46",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1293",
+          "name": "Fatty acids, total polyunsaturated",
+          "unit_name": "G",
+          "nutrient_nbr": "646",
+          "rank": "12900.0"
+        }
+      },
+      {
+        "id": "1625440",
+        "fdc_id": "171618",
+        "nutrient_id": "1261",
+        "amount": "0.0",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1261",
+          "name": "SFA 8:0",
+          "unit_name": "G",
+          "nutrient_nbr": "609",
+          "rank": "10000.0"
+        }
+      },
+      {
+        "id": "1625432",
+        "fdc_id": "171618",
+        "nutrient_id": "1198",
+        "amount": "2.2",
+        "data_points": "0",
+        "derivation_id": "12",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1198",
+          "name": "Betaine",
+          "unit_name": "MG",
+          "nutrient_nbr": "454",
+          "rank": "7290.0"
+        }
+      },
+      {
+        "id": "1625488",
+        "fdc_id": "171618",
+        "nutrient_id": "1095",
+        "amount": "1.3",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1095",
+          "name": "Zinc, Zn",
+          "unit_name": "MG",
+          "nutrient_nbr": "309",
+          "rank": "5900.0"
+        }
+      },
+      {
+        "id": "1625414",
+        "fdc_id": "171618",
+        "nutrient_id": "1217",
+        "amount": "0.82",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1217",
+          "name": "Phenylalanine",
+          "unit_name": "G",
+          "nutrient_nbr": "508",
+          "rank": "17000.0"
+        }
+      },
+      {
+        "id": "1625478",
+        "fdc_id": "171618",
+        "nutrient_id": "1292",
+        "amount": "15.9",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1292",
+          "name": "Fatty acids, total monounsaturated",
+          "unit_name": "G",
+          "nutrient_nbr": "645",
+          "rank": "11400.0"
+        }
+      },
+      {
+        "id": "1625465",
+        "fdc_id": "171618",
+        "nutrient_id": "1018",
+        "amount": "0.0",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1018",
+          "name": "Alcohol, ethyl",
+          "unit_name": "G",
+          "nutrient_nbr": "221",
+          "rank": "18200.0"
+        }
+      },
+      {
+        "id": "1625453",
+        "fdc_id": "171618",
+        "nutrient_id": "1098",
+        "amount": "0.04",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1098",
+          "name": "Copper, Cu",
+          "unit_name": "MG",
+          "nutrient_nbr": "312",
+          "rank": "6000.0"
+        }
+      },
+      {
+        "id": "1625403",
+        "fdc_id": "171618",
+        "nutrient_id": "1219",
+        "amount": "1.02",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1219",
+          "name": "Valine",
+          "unit_name": "G",
+          "nutrient_nbr": "510",
+          "rank": "17200.0"
+        }
+      },
+      {
+        "id": "1625486",
+        "fdc_id": "171618",
+        "nutrient_id": "1087",
+        "amount": "6.0",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1087",
+          "name": "Calcium, Ca",
+          "unit_name": "MG",
+          "nutrient_nbr": "301",
+          "rank": "5300.0"
+        }
+      },
+      {
+        "id": "1625417",
+        "fdc_id": "171618",
+        "nutrient_id": "1224",
+        "amount": "2.12",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1224",
+          "name": "Glutamic acid",
+          "unit_name": "G",
+          "nutrient_nbr": "515",
+          "rank": "17700.0"
+        }
+      },
+      {
+        "id": "1625477",
+        "fdc_id": "171618",
+        "nutrient_id": "1279",
+        "amount": "0.0",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1279",
+          "name": "MUFA 22:1",
+          "unit_name": "G",
+          "nutrient_nbr": "630",
+          "rank": "12500.0"
+        }
+      },
+      {
+        "id": "1625427",
+        "fdc_id": "171618",
+        "nutrient_id": "1190",
+        "amount": "5.0",
+        "data_points": "0",
+        "derivation_id": "49",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1190",
+          "name": "Folate, DFE",
+          "unit_name": "UG",
+          "nutrient_nbr": "435",
+          "rank": "7200.0"
+        }
+      },
+      {
+        "id": "1625483",
+        "fdc_id": "171618",
+        "nutrient_id": "1004",
+        "amount": "34.5",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1004",
+          "name": "Total lipid (fat)",
+          "unit_name": "G",
+          "nutrient_nbr": "204",
+          "rank": "800.0"
+        }
+      },
+      {
+        "id": "1625460",
+        "fdc_id": "171618",
+        "nutrient_id": "1178",
+        "amount": "1.0",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1178",
+          "name": "Vitamin B-12",
+          "unit_name": "UG",
+          "nutrient_nbr": "418",
+          "rank": "7300.0"
+        }
+      },
+      {
+        "id": "1625425",
+        "fdc_id": "171618",
+        "nutrient_id": "1005",
+        "amount": "1.29",
+        "data_points": "0",
+        "derivation_id": "49",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1005",
+          "name": "Carbohydrate, by difference",
+          "unit_name": "G",
+          "nutrient_nbr": "205",
+          "rank": "1110.0"
+        }
+      },
+      {
+        "id": "1625484",
+        "fdc_id": "171618",
+        "nutrient_id": "1010",
+        "amount": "1.3",
+        "data_points": "0",
+        "derivation_id": "41",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1010",
+          "name": "Sucrose",
+          "unit_name": "G",
+          "nutrient_nbr": "210",
+          "rank": "1600.0"
+        }
+      },
+      {
+        "id": "1625467",
+        "fdc_id": "171618",
+        "nutrient_id": "1260",
+        "amount": "0.0",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1260",
+          "name": "SFA 6:0",
+          "unit_name": "G",
+          "nutrient_nbr": "608",
+          "rank": "9900.0"
+        }
+      },
+      {
+        "id": "1625470",
+        "fdc_id": "171618",
+        "nutrient_id": "1266",
+        "amount": "4.41",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1266",
+          "name": "SFA 18:0",
+          "unit_name": "G",
+          "nutrient_nbr": "614",
+          "rank": "10900.0"
+        }
+      },
+      {
+        "id": "1625490",
+        "fdc_id": "171618",
+        "nutrient_id": "1058",
+        "amount": "0.0",
+        "data_points": "0",
+        "derivation_id": "68",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1058",
+          "name": "Theobromine",
+          "unit_name": "MG",
+          "nutrient_nbr": "263",
+          "rank": "18400.0"
+        }
+      },
+      {
+        "id": "1625405",
+        "fdc_id": "171618",
+        "nutrient_id": "1221",
+        "amount": "0.71",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1221",
+          "name": "Histidine",
+          "unit_name": "G",
+          "nutrient_nbr": "512",
+          "rank": "17400.0"
+        }
+      },
+      {
+        "id": "1625458",
+        "fdc_id": "171618",
+        "nutrient_id": "1166",
+        "amount": "0.13",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1166",
+          "name": "Riboflavin",
+          "unit_name": "MG",
+          "nutrient_nbr": "405",
+          "rank": "6500.0"
+        }
+      },
+      {
+        "id": "1625404",
+        "fdc_id": "171618",
+        "nutrient_id": "1220",
+        "amount": "0.68",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1220",
+          "name": "Arginine",
+          "unit_name": "G",
+          "nutrient_nbr": "511",
+          "rank": "17300.0"
+        }
+      },
+      {
+        "id": "1625441",
+        "fdc_id": "171618",
+        "nutrient_id": "1263",
+        "amount": "0.03",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1263",
+          "name": "SFA 12:0",
+          "unit_name": "G",
+          "nutrient_nbr": "611",
+          "rank": "10300.0"
+        }
+      },
+      {
+        "id": "1625448",
+        "fdc_id": "171618",
+        "nutrient_id": "1079",
+        "amount": "0.0",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1079",
+          "name": "Fiber, total dietary",
+          "unit_name": "G",
+          "nutrient_nbr": "291",
+          "rank": "1200.0"
+        }
+      },
+      {
+        "id": "1625475",
+        "fdc_id": "171618",
+        "nutrient_id": "1276",
+        "amount": "0.0",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1276",
+          "name": "PUFA 18:4",
+          "unit_name": "G",
+          "nutrient_nbr": "627",
+          "rank": "14250.0"
+        }
+      },
+      {
+        "id": "1625402",
+        "fdc_id": "171618",
+        "nutrient_id": "1216",
+        "amount": "0.18",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1216",
+          "name": "Cystine",
+          "unit_name": "G",
+          "nutrient_nbr": "507",
+          "rank": "16900.0"
+        }
+      },
+      {
+        "id": "1625424",
+        "fdc_id": "171618",
+        "nutrient_id": "2000",
+        "amount": "1.29",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "2000",
+          "name": "Sugars, total including NLEA",
+          "unit_name": "G",
+          "nutrient_nbr": "269",
+          "rank": "1510.0"
+        }
+      },
+      {
+        "id": "1625430",
+        "fdc_id": "171618",
+        "nutrient_id": "1106",
+        "amount": "0.0",
+        "data_points": "0",
+        "derivation_id": "49",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1106",
+          "name": "Vitamin A, RAE",
+          "unit_name": "UG",
+          "nutrient_nbr": "320",
+          "rank": "7420.0"
+        }
+      },
+      {
+        "id": "1625401",
+        "fdc_id": "171618",
+        "nutrient_id": "1214",
+        "amount": "1.05",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1214",
+          "name": "Lysine",
+          "unit_name": "G",
+          "nutrient_nbr": "505",
+          "rank": "16700.0"
+        }
+      },
+      {
+        "id": "1625437",
+        "fdc_id": "171618",
+        "nutrient_id": "1242",
+        "amount": "0.0",
+        "data_points": "0",
+        "derivation_id": "68",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1242",
+          "name": "Vitamin E, added",
+          "unit_name": "MG",
+          "nutrient_nbr": "573",
+          "rank": "7920.0"
+        }
+      },
+      {
+        "id": "1625411",
+        "fdc_id": "171618",
+        "nutrient_id": "1210",
+        "amount": "0.18",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1210",
+          "name": "Tryptophan",
+          "unit_name": "G",
+          "nutrient_nbr": "501",
+          "rank": "16300.0"
+        }
+      },
+      {
+        "id": "1625476",
+        "fdc_id": "171618",
+        "nutrient_id": "1277",
+        "amount": "0.0",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1277",
+          "name": "MUFA 20:1",
+          "unit_name": "G",
+          "nutrient_nbr": "628",
+          "rank": "12400.0"
+        }
+      },
+      {
+        "id": "1625482",
+        "fdc_id": "171618",
+        "nutrient_id": "1175",
+        "amount": "0.04",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1175",
+          "name": "Vitamin B-6",
+          "unit_name": "MG",
+          "nutrient_nbr": "415",
+          "rank": "6800.0"
+        }
+      },
+      {
+        "id": "1625472",
+        "fdc_id": "171618",
+        "nutrient_id": "1269",
+        "amount": "3.2",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1269",
+          "name": "PUFA 18:2",
+          "unit_name": "G",
+          "nutrient_nbr": "618",
+          "rank": "13100.0"
+        }
+      },
+      {
+        "id": "1625433",
+        "fdc_id": "171618",
+        "nutrient_id": "1180",
+        "amount": "72.8",
+        "data_points": "0",
+        "derivation_id": "12",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1180",
+          "name": "Choline, total",
+          "unit_name": "MG",
+          "nutrient_nbr": "421",
+          "rank": "7220.0"
+        }
+      },
+      {
+        "id": "1625421",
+        "fdc_id": "171618",
+        "nutrient_id": "1108",
+        "amount": "0.0",
+        "data_points": "0",
+        "derivation_id": "68",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1108",
+          "name": "Carotene, alpha",
+          "unit_name": "UG",
+          "nutrient_nbr": "322",
+          "rank": "7450.0"
+        }
+      },
+      {
+        "id": "1625410",
+        "fdc_id": "171618",
+        "nutrient_id": "1122",
+        "amount": "0.0",
+        "data_points": "0",
+        "derivation_id": "68",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1122",
+          "name": "Lycopene",
+          "unit_name": "UG",
+          "nutrient_nbr": "337",
+          "rank": "7530.0"
+        }
+      },
+      {
+        "id": "1625439",
+        "fdc_id": "171618",
+        "nutrient_id": "1258",
+        "amount": "13.4",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1258",
+          "name": "Fatty acids, total saturated",
+          "unit_name": "G",
+          "nutrient_nbr": "606",
+          "rank": "9700.0"
+        }
+      },
+      {
+        "id": "1625434",
+        "fdc_id": "171618",
+        "nutrient_id": "1105",
+        "amount": "0.0",
+        "data_points": "0",
+        "derivation_id": "51",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1105",
+          "name": "Retinol",
+          "unit_name": "UG",
+          "nutrient_nbr": "319",
+          "rank": "7430.0"
+        }
+      },
+      {
+        "id": "1625422",
+        "fdc_id": "171618",
+        "nutrient_id": "1103",
+        "amount": "15.5",
+        "data_points": "0",
+        "derivation_id": "41",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1103",
+          "name": "Selenium, Se",
+          "unit_name": "UG",
+          "nutrient_nbr": "317",
+          "rank": "6200.0"
+        }
+      },
+      {
+        "id": "1625489",
+        "fdc_id": "171618",
+        "nutrient_id": "1109",
+        "amount": "0.13",
+        "data_points": "0",
+        "derivation_id": "41",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1109",
+          "name": "Vitamin E (alpha-tocopherol)",
+          "unit_name": "MG",
+          "nutrient_nbr": "323",
+          "rank": "7905.0"
+        }
+      },
+      {
+        "id": "1625443",
+        "fdc_id": "171618",
+        "nutrient_id": "1272",
+        "amount": "0.0",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1272",
+          "name": "PUFA 22:6 n-3 (DHA)",
+          "unit_name": "G",
+          "nutrient_nbr": "621",
+          "rank": "15300.0"
+        }
+      },
+      {
+        "id": "1625436",
+        "fdc_id": "171618",
+        "nutrient_id": "1246",
+        "amount": "0.0",
+        "data_points": "0",
+        "derivation_id": "68",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1246",
+          "name": "Vitamin B-12, added",
+          "unit_name": "UG",
+          "nutrient_nbr": "578",
+          "rank": "7340.0"
+        }
+      },
+      {
+        "id": "1625413",
+        "fdc_id": "171618",
+        "nutrient_id": "1215",
+        "amount": "0.2",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1215",
+          "name": "Methionine",
+          "unit_name": "G",
+          "nutrient_nbr": "506",
+          "rank": "16800.0"
+        }
+      },
+      {
+        "id": "1625454",
+        "fdc_id": "171618",
+        "nutrient_id": "1101",
+        "amount": "0.01",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1101",
+          "name": "Manganese, Mn",
+          "unit_name": "MG",
+          "nutrient_nbr": "315",
+          "rank": "6100.0"
+        }
+      },
+      {
+        "id": "1625449",
+        "fdc_id": "171618",
+        "nutrient_id": "1089",
+        "amount": "6.4",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1089",
+          "name": "Iron, Fe",
+          "unit_name": "MG",
+          "nutrient_nbr": "303",
+          "rank": "5400.0"
+        }
+      },
+      {
+        "id": "1625408",
+        "fdc_id": "171618",
+        "nutrient_id": "1123",
+        "amount": "0.0",
+        "data_points": "0",
+        "derivation_id": "68",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1123",
+          "name": "Lutein + zeaxanthin",
+          "unit_name": "UG",
+          "nutrient_nbr": "338",
+          "rank": "7560.0"
+        }
+      },
+      {
+        "id": "1625399",
+        "fdc_id": "171618",
+        "nutrient_id": "1212",
+        "amount": "0.32",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1212",
+          "name": "Isoleucine",
+          "unit_name": "G",
+          "nutrient_nbr": "503",
+          "rank": "16500.0"
+        }
+      },
+      {
+        "id": "1625451",
+        "fdc_id": "171618",
+        "nutrient_id": "1091",
+        "amount": "22.0",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1091",
+          "name": "Phosphorus, P",
+          "unit_name": "MG",
+          "nutrient_nbr": "305",
+          "rank": "5600.0"
+        }
+      },
+      {
+        "id": "1625445",
+        "fdc_id": "171618",
+        "nutrient_id": "1278",
+        "amount": "0.0",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1278",
+          "name": "PUFA 20:5 n-3 (EPA)",
+          "unit_name": "G",
+          "nutrient_nbr": "629",
+          "rank": "15000.0"
+        }
+      },
+      {
+        "id": "1625420",
+        "fdc_id": "171618",
+        "nutrient_id": "1107",
+        "amount": "0.0",
+        "data_points": "0",
+        "derivation_id": "68",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1107",
+          "name": "Carotene, beta",
+          "unit_name": "UG",
+          "nutrient_nbr": "321",
+          "rank": "7440.0"
+        }
+      },
+      {
+        "id": "1625463",
+        "fdc_id": "171618",
+        "nutrient_id": "1003",
+        "amount": "14.6",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1003",
+          "name": "Protein",
+          "unit_name": "G",
+          "nutrient_nbr": "203",
+          "rank": "600.0"
+        }
+      },
+      {
+        "id": "1625464",
+        "fdc_id": "171618",
+        "nutrient_id": "1007",
+        "amount": "2.31",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1007",
+          "name": "Ash",
+          "unit_name": "G",
+          "nutrient_nbr": "207",
+          "rank": "1000.0"
+        }
+      },
+      {
+        "id": "1625481",
+        "fdc_id": "171618",
+        "nutrient_id": "1170",
+        "amount": "0.6",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1170",
+          "name": "Pantothenic acid",
+          "unit_name": "MG",
+          "nutrient_nbr": "410",
+          "rank": "6700.0"
+        }
+      },
+      {
+        "id": "1625431",
+        "fdc_id": "171618",
+        "nutrient_id": "1062",
+        "amount": "1584.0",
+        "data_points": "0",
+        "derivation_id": "49",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1062",
+          "name": "Energy",
+          "unit_name": "kJ",
+          "nutrient_nbr": "268",
+          "rank": "400.0"
+        }
+      },
+      {
+        "id": "1625457",
+        "fdc_id": "171618",
+        "nutrient_id": "1165",
+        "amount": "0.07",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1165",
+          "name": "Thiamin",
+          "unit_name": "MG",
+          "nutrient_nbr": "404",
+          "rank": "6400.0"
+        }
+      },
+      {
+        "id": "1625466",
+        "fdc_id": "171618",
+        "nutrient_id": "1259",
+        "amount": "0.0",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1259",
+          "name": "SFA 4:0",
+          "unit_name": "G",
+          "nutrient_nbr": "607",
+          "rank": "9800.0"
+        }
+      },
+      {
+        "id": "1625407",
+        "fdc_id": "171618",
+        "nutrient_id": "1227",
+        "amount": "0.68",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1227",
+          "name": "Serine",
+          "unit_name": "G",
+          "nutrient_nbr": "518",
+          "rank": "18000.0"
+        }
+      },
+      {
+        "id": "1625415",
+        "fdc_id": "171618",
+        "nutrient_id": "1218",
+        "amount": "0.34",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1218",
+          "name": "Tyrosine",
+          "unit_name": "G",
+          "nutrient_nbr": "509",
+          "rank": "17100.0"
+        }
+      },
+      {
+        "id": "1625450",
+        "fdc_id": "171618",
+        "nutrient_id": "1090",
+        "amount": "8.0",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1090",
+          "name": "Magnesium, Mg",
+          "unit_name": "MG",
+          "nutrient_nbr": "304",
+          "rank": "5500.0"
+        }
+      },
+      {
+        "id": "1625468",
+        "fdc_id": "171618",
+        "nutrient_id": "1262",
+        "amount": "0.0",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1262",
+          "name": "SFA 10:0",
+          "unit_name": "G",
+          "nutrient_nbr": "610",
+          "rank": "10100.0"
+        }
+      },
+      {
+        "id": "1625446",
+        "fdc_id": "171618",
+        "nutrient_id": "1280",
+        "amount": "0.0",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1280",
+          "name": "PUFA 22:5 n-3 (DPA)",
+          "unit_name": "G",
+          "nutrient_nbr": "631",
+          "rank": "15200.0"
+        }
+      },
+      {
+        "id": "1625452",
+        "fdc_id": "171618",
+        "nutrient_id": "1093",
+        "amount": "680.0",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1093",
+          "name": "Sodium, Na",
+          "unit_name": "MG",
+          "nutrient_nbr": "307",
+          "rank": "5800.0"
+        }
+      },
+      {
+        "id": "1625442",
+        "fdc_id": "171618",
+        "nutrient_id": "1264",
+        "amount": "0.62",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1264",
+          "name": "SFA 14:0",
+          "unit_name": "G",
+          "nutrient_nbr": "612",
+          "rank": "10500.0"
+        }
+      },
+      {
+        "id": "1625455",
+        "fdc_id": "171618",
+        "nutrient_id": "1104",
+        "amount": "0.0",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1104",
+          "name": "Vitamin A, IU",
+          "unit_name": "IU",
+          "nutrient_nbr": "318",
+          "rank": "7500.0"
+        }
+      },
+      {
+        "id": "1625438",
+        "fdc_id": "171618",
+        "nutrient_id": "1253",
+        "amount": "120.0",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1253",
+          "name": "Cholesterol",
+          "unit_name": "MG",
+          "nutrient_nbr": "601",
+          "rank": "15700.0"
+        }
+      },
+      {
+        "id": "1625426",
+        "fdc_id": "171618",
+        "nutrient_id": "1008",
+        "amount": "379.0",
+        "data_points": "0",
+        "derivation_id": "49",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1008",
+          "name": "Energy",
+          "unit_name": "KCAL",
+          "nutrient_nbr": "208",
+          "rank": "300.0"
+        }
+      },
+      {
+        "id": "1625487",
+        "fdc_id": "171618",
+        "nutrient_id": "1092",
+        "amount": "38.0",
+        "data_points": "0",
+        "derivation_id": "47",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1092",
+          "name": "Potassium, K",
+          "unit_name": "MG",
+          "nutrient_nbr": "306",
+          "rank": "5700.0"
+        }
+      }
+    ],
+    "attributes": {
+      "fat": "34.5 G",
+      "carbs": "1.29 G",
+      "sugar": "1.29 G",
+      "protein": "14.6 G",
+      "kcal": "379.0 KCAL",
+      "portion_amount": "4.0",
+      "portion_unit": {
+        "id": "9999",
+        "name": "undetermined"
+      }
+    },
+    "foodPortionData": {
+      "id": "89084",
+      "fdc_id": "171618",
+      "seq_num": "1",
+      "amount": "4.0",
+      "measure_unit_id": "9999",
+      "portion_description": "",
+      "modifier": "slices",
+      "gram_weight": "100.0",
+      "data_points": "1",
+      "footnote": "",
+      "min_year_acquired": ""
+    }
+  },
+  {
+    "fdc_id": "482516",
+    "data_type": "branded_food",
+    "description": "SAUSAGE",
+    "food_category_id": "",
+    "publication_date": "2019-04-01",
+    "_score": 1,
+    "_search": "common sage",
+    "_score2": 15,
+    "nutrients": [
+      {
+        "id": "5447593",
+        "fdc_id": "482516",
+        "nutrient_id": "1253",
+        "amount": "67.0",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1253",
+          "name": "Cholesterol",
+          "unit_name": "MG",
+          "nutrient_nbr": "601",
+          "rank": "15700.0"
+        }
+      },
+      {
+        "id": "5447594",
+        "fdc_id": "482516",
+        "nutrient_id": "1257",
+        "amount": "0.0",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1257",
+          "name": "Fatty acids, total trans",
+          "unit_name": "G",
+          "nutrient_nbr": "605",
+          "rank": "15400.0"
+        }
+      },
+      {
+        "id": "5447589",
+        "fdc_id": "482516",
+        "nutrient_id": "1005",
+        "amount": "1.33",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1005",
+          "name": "Carbohydrate, by difference",
+          "unit_name": "G",
+          "nutrient_nbr": "205",
+          "rank": "1110.0"
+        }
+      },
+      {
+        "id": "5447592",
+        "fdc_id": "482516",
+        "nutrient_id": "1093",
+        "amount": "533.0",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1093",
+          "name": "Sodium, Na",
+          "unit_name": "MG",
+          "nutrient_nbr": "307",
+          "rank": "5800.0"
+        }
+      },
+      {
+        "id": "5447591",
+        "fdc_id": "482516",
+        "nutrient_id": "2000",
+        "amount": "1.33",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "2000",
+          "name": "Sugars, total including NLEA",
+          "unit_name": "G",
+          "nutrient_nbr": "269",
+          "rank": "1510.0"
+        }
+      },
+      {
+        "id": "5447595",
+        "fdc_id": "482516",
+        "nutrient_id": "1258",
+        "amount": "9.33",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1258",
+          "name": "Fatty acids, total saturated",
+          "unit_name": "G",
+          "nutrient_nbr": "606",
+          "rank": "9700.0"
+        }
+      },
+      {
+        "id": "5447590",
+        "fdc_id": "482516",
+        "nutrient_id": "1008",
+        "amount": "253.0",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1008",
+          "name": "Energy",
+          "unit_name": "KCAL",
+          "nutrient_nbr": "208",
+          "rank": "300.0"
+        }
+      },
+      {
+        "id": "5447587",
+        "fdc_id": "482516",
+        "nutrient_id": "1003",
+        "amount": "16.0",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1003",
+          "name": "Protein",
+          "unit_name": "G",
+          "nutrient_nbr": "203",
+          "rank": "600.0"
+        }
+      },
+      {
+        "id": "5447588",
+        "fdc_id": "482516",
+        "nutrient_id": "1004",
+        "amount": "21.33",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1004",
+          "name": "Total lipid (fat)",
+          "unit_name": "G",
+          "nutrient_nbr": "204",
+          "rank": "800.0"
+        }
+      },
+      {
+        "id": "3717453",
+        "fdc_id": "482516",
+        "nutrient_id": "1079",
+        "amount": "0.0",
+        "data_points": "",
+        "derivation_id": "75",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1079",
+          "name": "Fiber, total dietary",
+          "unit_name": "G",
+          "nutrient_nbr": "291",
+          "rank": "1200.0"
+        }
+      },
+      {
+        "id": "3717454",
+        "fdc_id": "482516",
+        "nutrient_id": "1087",
+        "amount": "0.0",
+        "data_points": "",
+        "derivation_id": "75",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1087",
+          "name": "Calcium, Ca",
+          "unit_name": "MG",
+          "nutrient_nbr": "301",
+          "rank": "5300.0"
+        }
+      },
+      {
+        "id": "3717456",
+        "fdc_id": "482516",
+        "nutrient_id": "1104",
+        "amount": "0.0",
+        "data_points": "",
+        "derivation_id": "75",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1104",
+          "name": "Vitamin A, IU",
+          "unit_name": "IU",
+          "nutrient_nbr": "318",
+          "rank": "7500.0"
+        }
+      },
+      {
+        "id": "3717455",
+        "fdc_id": "482516",
+        "nutrient_id": "1089",
+        "amount": "0.96",
+        "data_points": "",
+        "derivation_id": "75",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1089",
+          "name": "Iron, Fe",
+          "unit_name": "MG",
+          "nutrient_nbr": "303",
+          "rank": "5400.0"
+        }
+      },
+      {
+        "id": "3717457",
+        "fdc_id": "482516",
+        "nutrient_id": "1162",
+        "amount": "1.6",
+        "data_points": "",
+        "derivation_id": "75",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1162",
+          "name": "Vitamin C, total ascorbic acid",
+          "unit_name": "MG",
+          "nutrient_nbr": "401",
+          "rank": "6300.0"
+        }
+      },
+      {
+        "id": "5447593",
+        "fdc_id": "482516",
+        "nutrient_id": "1253",
+        "amount": "67.0",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1253",
+          "name": "Cholesterol",
+          "unit_name": "MG",
+          "nutrient_nbr": "601",
+          "rank": "15700.0"
+        }
+      },
+      {
+        "id": "5447594",
+        "fdc_id": "482516",
+        "nutrient_id": "1257",
+        "amount": "0.0",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1257",
+          "name": "Fatty acids, total trans",
+          "unit_name": "G",
+          "nutrient_nbr": "605",
+          "rank": "15400.0"
+        }
+      },
+      {
+        "id": "5447589",
+        "fdc_id": "482516",
+        "nutrient_id": "1005",
+        "amount": "1.33",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1005",
+          "name": "Carbohydrate, by difference",
+          "unit_name": "G",
+          "nutrient_nbr": "205",
+          "rank": "1110.0"
+        }
+      },
+      {
+        "id": "5447592",
+        "fdc_id": "482516",
+        "nutrient_id": "1093",
+        "amount": "533.0",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1093",
+          "name": "Sodium, Na",
+          "unit_name": "MG",
+          "nutrient_nbr": "307",
+          "rank": "5800.0"
+        }
+      },
+      {
+        "id": "5447591",
+        "fdc_id": "482516",
+        "nutrient_id": "2000",
+        "amount": "1.33",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "2000",
+          "name": "Sugars, total including NLEA",
+          "unit_name": "G",
+          "nutrient_nbr": "269",
+          "rank": "1510.0"
+        }
+      },
+      {
+        "id": "5447595",
+        "fdc_id": "482516",
+        "nutrient_id": "1258",
+        "amount": "9.33",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1258",
+          "name": "Fatty acids, total saturated",
+          "unit_name": "G",
+          "nutrient_nbr": "606",
+          "rank": "9700.0"
+        }
+      },
+      {
+        "id": "5447590",
+        "fdc_id": "482516",
+        "nutrient_id": "1008",
+        "amount": "253.0",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1008",
+          "name": "Energy",
+          "unit_name": "KCAL",
+          "nutrient_nbr": "208",
+          "rank": "300.0"
+        }
+      },
+      {
+        "id": "5447587",
+        "fdc_id": "482516",
+        "nutrient_id": "1003",
+        "amount": "16.0",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1003",
+          "name": "Protein",
+          "unit_name": "G",
+          "nutrient_nbr": "203",
+          "rank": "600.0"
+        }
+      },
+      {
+        "id": "5447588",
+        "fdc_id": "482516",
+        "nutrient_id": "1004",
+        "amount": "21.33",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1004",
+          "name": "Total lipid (fat)",
+          "unit_name": "G",
+          "nutrient_nbr": "204",
+          "rank": "800.0"
+        }
+      },
+      {
+        "id": "3717453",
+        "fdc_id": "482516",
+        "nutrient_id": "1079",
+        "amount": "0.0",
+        "data_points": "",
+        "derivation_id": "75",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1079",
+          "name": "Fiber, total dietary",
+          "unit_name": "G",
+          "nutrient_nbr": "291",
+          "rank": "1200.0"
+        }
+      },
+      {
+        "id": "3717454",
+        "fdc_id": "482516",
+        "nutrient_id": "1087",
+        "amount": "0.0",
+        "data_points": "",
+        "derivation_id": "75",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1087",
+          "name": "Calcium, Ca",
+          "unit_name": "MG",
+          "nutrient_nbr": "301",
+          "rank": "5300.0"
+        }
+      },
+      {
+        "id": "3717456",
+        "fdc_id": "482516",
+        "nutrient_id": "1104",
+        "amount": "0.0",
+        "data_points": "",
+        "derivation_id": "75",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1104",
+          "name": "Vitamin A, IU",
+          "unit_name": "IU",
+          "nutrient_nbr": "318",
+          "rank": "7500.0"
+        }
+      },
+      {
+        "id": "3717455",
+        "fdc_id": "482516",
+        "nutrient_id": "1089",
+        "amount": "0.96",
+        "data_points": "",
+        "derivation_id": "75",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1089",
+          "name": "Iron, Fe",
+          "unit_name": "MG",
+          "nutrient_nbr": "303",
+          "rank": "5400.0"
+        }
+      },
+      {
+        "id": "3717457",
+        "fdc_id": "482516",
+        "nutrient_id": "1162",
+        "amount": "1.6",
+        "data_points": "",
+        "derivation_id": "75",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1162",
+          "name": "Vitamin C, total ascorbic acid",
+          "unit_name": "MG",
+          "nutrient_nbr": "401",
+          "rank": "6300.0"
+        }
+      }
+    ],
+    "attributes": {
+      "carbs": "1.33 G",
+      "sugar": "1.33 G",
+      "kcal": "253.0 KCAL",
+      "protein": "16.0 G",
+      "fat": "21.33 G",
+      "serving": "2.5 ONZ"
+    },
+    "brandedData": {
+      "fdc_id": "482516",
+      "brand_owner": "CABAL AUTENTICO CHORIZO",
+      "brand_name": "",
+      "subbrand_name": "",
+      "gtin_upc": "628586350700",
+      "ingredients": "PORK, SALT, SPICES, WHITE WINE, SODIUM ACETATE, CITRIC ACID, SODIUM CARBONATE",
+      "not_a_significant_source_of": "",
+      "serving_size": "75.0",
+      "serving_size_unit": "g",
+      "household_serving_fulltext": "2.5 ONZ",
+      "branded_food_category": "Sausages, Hotdogs & Brats",
+      "data_source": "LI",
+      "package_weight": "",
+      "modified_date": "2017-07-14",
+      "available_date": "2019-04-01",
+      "market_country": "United States",
+      "discontinued_date": "",
+      "preparation_state_code": "",
+      "trade_channel": ""
+    }
+  },
+  {
+    "fdc_id": "482516",
+    "data_type": "branded_food",
+    "description": "SAUSAGE",
+    "food_category_id": "",
+    "publication_date": "2019-04-01",
+    "_score": 1,
+    "_search": "common sage",
+    "_score2": 15,
+    "nutrients": [
+      {
+        "id": "5447593",
+        "fdc_id": "482516",
+        "nutrient_id": "1253",
+        "amount": "67.0",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1253",
+          "name": "Cholesterol",
+          "unit_name": "MG",
+          "nutrient_nbr": "601",
+          "rank": "15700.0"
+        }
+      },
+      {
+        "id": "5447594",
+        "fdc_id": "482516",
+        "nutrient_id": "1257",
+        "amount": "0.0",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1257",
+          "name": "Fatty acids, total trans",
+          "unit_name": "G",
+          "nutrient_nbr": "605",
+          "rank": "15400.0"
+        }
+      },
+      {
+        "id": "5447589",
+        "fdc_id": "482516",
+        "nutrient_id": "1005",
+        "amount": "1.33",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1005",
+          "name": "Carbohydrate, by difference",
+          "unit_name": "G",
+          "nutrient_nbr": "205",
+          "rank": "1110.0"
+        }
+      },
+      {
+        "id": "5447592",
+        "fdc_id": "482516",
+        "nutrient_id": "1093",
+        "amount": "533.0",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1093",
+          "name": "Sodium, Na",
+          "unit_name": "MG",
+          "nutrient_nbr": "307",
+          "rank": "5800.0"
+        }
+      },
+      {
+        "id": "5447591",
+        "fdc_id": "482516",
+        "nutrient_id": "2000",
+        "amount": "1.33",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "2000",
+          "name": "Sugars, total including NLEA",
+          "unit_name": "G",
+          "nutrient_nbr": "269",
+          "rank": "1510.0"
+        }
+      },
+      {
+        "id": "5447595",
+        "fdc_id": "482516",
+        "nutrient_id": "1258",
+        "amount": "9.33",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1258",
+          "name": "Fatty acids, total saturated",
+          "unit_name": "G",
+          "nutrient_nbr": "606",
+          "rank": "9700.0"
+        }
+      },
+      {
+        "id": "5447590",
+        "fdc_id": "482516",
+        "nutrient_id": "1008",
+        "amount": "253.0",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1008",
+          "name": "Energy",
+          "unit_name": "KCAL",
+          "nutrient_nbr": "208",
+          "rank": "300.0"
+        }
+      },
+      {
+        "id": "5447587",
+        "fdc_id": "482516",
+        "nutrient_id": "1003",
+        "amount": "16.0",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1003",
+          "name": "Protein",
+          "unit_name": "G",
+          "nutrient_nbr": "203",
+          "rank": "600.0"
+        }
+      },
+      {
+        "id": "5447588",
+        "fdc_id": "482516",
+        "nutrient_id": "1004",
+        "amount": "21.33",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1004",
+          "name": "Total lipid (fat)",
+          "unit_name": "G",
+          "nutrient_nbr": "204",
+          "rank": "800.0"
+        }
+      },
+      {
+        "id": "3717453",
+        "fdc_id": "482516",
+        "nutrient_id": "1079",
+        "amount": "0.0",
+        "data_points": "",
+        "derivation_id": "75",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1079",
+          "name": "Fiber, total dietary",
+          "unit_name": "G",
+          "nutrient_nbr": "291",
+          "rank": "1200.0"
+        }
+      },
+      {
+        "id": "3717454",
+        "fdc_id": "482516",
+        "nutrient_id": "1087",
+        "amount": "0.0",
+        "data_points": "",
+        "derivation_id": "75",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1087",
+          "name": "Calcium, Ca",
+          "unit_name": "MG",
+          "nutrient_nbr": "301",
+          "rank": "5300.0"
+        }
+      },
+      {
+        "id": "3717456",
+        "fdc_id": "482516",
+        "nutrient_id": "1104",
+        "amount": "0.0",
+        "data_points": "",
+        "derivation_id": "75",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1104",
+          "name": "Vitamin A, IU",
+          "unit_name": "IU",
+          "nutrient_nbr": "318",
+          "rank": "7500.0"
+        }
+      },
+      {
+        "id": "3717455",
+        "fdc_id": "482516",
+        "nutrient_id": "1089",
+        "amount": "0.96",
+        "data_points": "",
+        "derivation_id": "75",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1089",
+          "name": "Iron, Fe",
+          "unit_name": "MG",
+          "nutrient_nbr": "303",
+          "rank": "5400.0"
+        }
+      },
+      {
+        "id": "3717457",
+        "fdc_id": "482516",
+        "nutrient_id": "1162",
+        "amount": "1.6",
+        "data_points": "",
+        "derivation_id": "75",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1162",
+          "name": "Vitamin C, total ascorbic acid",
+          "unit_name": "MG",
+          "nutrient_nbr": "401",
+          "rank": "6300.0"
+        }
+      },
+      {
+        "id": "5447593",
+        "fdc_id": "482516",
+        "nutrient_id": "1253",
+        "amount": "67.0",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1253",
+          "name": "Cholesterol",
+          "unit_name": "MG",
+          "nutrient_nbr": "601",
+          "rank": "15700.0"
+        }
+      },
+      {
+        "id": "5447594",
+        "fdc_id": "482516",
+        "nutrient_id": "1257",
+        "amount": "0.0",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1257",
+          "name": "Fatty acids, total trans",
+          "unit_name": "G",
+          "nutrient_nbr": "605",
+          "rank": "15400.0"
+        }
+      },
+      {
+        "id": "5447589",
+        "fdc_id": "482516",
+        "nutrient_id": "1005",
+        "amount": "1.33",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1005",
+          "name": "Carbohydrate, by difference",
+          "unit_name": "G",
+          "nutrient_nbr": "205",
+          "rank": "1110.0"
+        }
+      },
+      {
+        "id": "5447592",
+        "fdc_id": "482516",
+        "nutrient_id": "1093",
+        "amount": "533.0",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1093",
+          "name": "Sodium, Na",
+          "unit_name": "MG",
+          "nutrient_nbr": "307",
+          "rank": "5800.0"
+        }
+      },
+      {
+        "id": "5447591",
+        "fdc_id": "482516",
+        "nutrient_id": "2000",
+        "amount": "1.33",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "2000",
+          "name": "Sugars, total including NLEA",
+          "unit_name": "G",
+          "nutrient_nbr": "269",
+          "rank": "1510.0"
+        }
+      },
+      {
+        "id": "5447595",
+        "fdc_id": "482516",
+        "nutrient_id": "1258",
+        "amount": "9.33",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1258",
+          "name": "Fatty acids, total saturated",
+          "unit_name": "G",
+          "nutrient_nbr": "606",
+          "rank": "9700.0"
+        }
+      },
+      {
+        "id": "5447590",
+        "fdc_id": "482516",
+        "nutrient_id": "1008",
+        "amount": "253.0",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1008",
+          "name": "Energy",
+          "unit_name": "KCAL",
+          "nutrient_nbr": "208",
+          "rank": "300.0"
+        }
+      },
+      {
+        "id": "5447587",
+        "fdc_id": "482516",
+        "nutrient_id": "1003",
+        "amount": "16.0",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1003",
+          "name": "Protein",
+          "unit_name": "G",
+          "nutrient_nbr": "203",
+          "rank": "600.0"
+        }
+      },
+      {
+        "id": "5447588",
+        "fdc_id": "482516",
+        "nutrient_id": "1004",
+        "amount": "21.33",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1004",
+          "name": "Total lipid (fat)",
+          "unit_name": "G",
+          "nutrient_nbr": "204",
+          "rank": "800.0"
+        }
+      },
+      {
+        "id": "3717453",
+        "fdc_id": "482516",
+        "nutrient_id": "1079",
+        "amount": "0.0",
+        "data_points": "",
+        "derivation_id": "75",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1079",
+          "name": "Fiber, total dietary",
+          "unit_name": "G",
+          "nutrient_nbr": "291",
+          "rank": "1200.0"
+        }
+      },
+      {
+        "id": "3717454",
+        "fdc_id": "482516",
+        "nutrient_id": "1087",
+        "amount": "0.0",
+        "data_points": "",
+        "derivation_id": "75",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1087",
+          "name": "Calcium, Ca",
+          "unit_name": "MG",
+          "nutrient_nbr": "301",
+          "rank": "5300.0"
+        }
+      },
+      {
+        "id": "3717456",
+        "fdc_id": "482516",
+        "nutrient_id": "1104",
+        "amount": "0.0",
+        "data_points": "",
+        "derivation_id": "75",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1104",
+          "name": "Vitamin A, IU",
+          "unit_name": "IU",
+          "nutrient_nbr": "318",
+          "rank": "7500.0"
+        }
+      },
+      {
+        "id": "3717455",
+        "fdc_id": "482516",
+        "nutrient_id": "1089",
+        "amount": "0.96",
+        "data_points": "",
+        "derivation_id": "75",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1089",
+          "name": "Iron, Fe",
+          "unit_name": "MG",
+          "nutrient_nbr": "303",
+          "rank": "5400.0"
+        }
+      },
+      {
+        "id": "3717457",
+        "fdc_id": "482516",
+        "nutrient_id": "1162",
+        "amount": "1.6",
+        "data_points": "",
+        "derivation_id": "75",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1162",
+          "name": "Vitamin C, total ascorbic acid",
+          "unit_name": "MG",
+          "nutrient_nbr": "401",
+          "rank": "6300.0"
+        }
+      }
+    ],
+    "attributes": {
+      "carbs": "1.33 G",
+      "sugar": "1.33 G",
+      "kcal": "253.0 KCAL",
+      "protein": "16.0 G",
+      "fat": "21.33 G",
+      "serving": "2.5 ONZ"
+    },
+    "brandedData": {
+      "fdc_id": "482516",
+      "brand_owner": "CABAL AUTENTICO CHORIZO",
+      "brand_name": "",
+      "subbrand_name": "",
+      "gtin_upc": "628586350700",
+      "ingredients": "PORK, SALT, SPICES, WHITE WINE, SODIUM ACETATE, CITRIC ACID, SODIUM CARBONATE",
+      "not_a_significant_source_of": "",
+      "serving_size": "75.0",
+      "serving_size_unit": "g",
+      "household_serving_fulltext": "2.5 ONZ",
+      "branded_food_category": "Sausages, Hotdogs & Brats",
+      "data_source": "LI",
+      "package_weight": "",
+      "modified_date": "2017-07-14",
+      "available_date": "2019-04-01",
+      "market_country": "United States",
+      "discontinued_date": "",
+      "preparation_state_code": "",
+      "trade_channel": ""
+    }
+  },
+  {
+    "fdc_id": "384466",
+    "data_type": "branded_food",
+    "description": "SAGE",
+    "food_category_id": "",
+    "publication_date": "2019-04-01",
+    "_score": 1,
+    "_search": "common sage",
+    "_exact": true,
+    "_score2": 6,
+    "nutrients": [
+      {
+        "id": "5085478",
+        "fdc_id": "384466",
+        "nutrient_id": "1003",
+        "amount": "0.0",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1003",
+          "name": "Protein",
+          "unit_name": "G",
+          "nutrient_nbr": "203",
+          "rank": "600.0"
+        }
+      },
+      {
+        "id": "5085479",
+        "fdc_id": "384466",
+        "nutrient_id": "1008",
+        "amount": "0.0",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1008",
+          "name": "Energy",
+          "unit_name": "KCAL",
+          "nutrient_nbr": "208",
+          "rank": "300.0"
+        }
+      },
+      {
+        "id": "3465172",
+        "fdc_id": "384466",
+        "nutrient_id": "1004",
+        "amount": "0.0",
+        "data_points": "",
+        "derivation_id": "75",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1004",
+          "name": "Total lipid (fat)",
+          "unit_name": "G",
+          "nutrient_nbr": "204",
+          "rank": "800.0"
+        }
+      },
+      {
+        "id": "3465174",
+        "fdc_id": "384466",
+        "nutrient_id": "1093",
+        "amount": "0.0",
+        "data_points": "",
+        "derivation_id": "75",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1093",
+          "name": "Sodium, Na",
+          "unit_name": "MG",
+          "nutrient_nbr": "307",
+          "rank": "5800.0"
+        }
+      },
+      {
+        "id": "3465173",
+        "fdc_id": "384466",
+        "nutrient_id": "1005",
+        "amount": "0.0",
+        "data_points": "",
+        "derivation_id": "75",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1005",
+          "name": "Carbohydrate, by difference",
+          "unit_name": "G",
+          "nutrient_nbr": "205",
+          "rank": "1110.0"
+        }
+      },
+      {
+        "id": "5085478",
+        "fdc_id": "384466",
+        "nutrient_id": "1003",
+        "amount": "0.0",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1003",
+          "name": "Protein",
+          "unit_name": "G",
+          "nutrient_nbr": "203",
+          "rank": "600.0"
+        }
+      },
+      {
+        "id": "5085479",
+        "fdc_id": "384466",
+        "nutrient_id": "1008",
+        "amount": "0.0",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1008",
+          "name": "Energy",
+          "unit_name": "KCAL",
+          "nutrient_nbr": "208",
+          "rank": "300.0"
+        }
+      },
+      {
+        "id": "3465172",
+        "fdc_id": "384466",
+        "nutrient_id": "1004",
+        "amount": "0.0",
+        "data_points": "",
+        "derivation_id": "75",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1004",
+          "name": "Total lipid (fat)",
+          "unit_name": "G",
+          "nutrient_nbr": "204",
+          "rank": "800.0"
+        }
+      },
+      {
+        "id": "3465174",
+        "fdc_id": "384466",
+        "nutrient_id": "1093",
+        "amount": "0.0",
+        "data_points": "",
+        "derivation_id": "75",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1093",
+          "name": "Sodium, Na",
+          "unit_name": "MG",
+          "nutrient_nbr": "307",
+          "rank": "5800.0"
+        }
+      },
+      {
+        "id": "3465173",
+        "fdc_id": "384466",
+        "nutrient_id": "1005",
+        "amount": "0.0",
+        "data_points": "",
+        "derivation_id": "75",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1005",
+          "name": "Carbohydrate, by difference",
+          "unit_name": "G",
+          "nutrient_nbr": "205",
+          "rank": "1110.0"
+        }
+      }
+    ],
+    "attributes": {
+      "protein": "0.0 G",
+      "kcal": "0.0 KCAL",
+      "fat": "0.0 G",
+      "carbs": "0.0 G",
+      "serving": "0.25 tsp"
+    },
+    "brandedData": {
+      "fdc_id": "384466",
+      "brand_owner": "Morton Bassett Inc.",
+      "brand_name": "",
+      "subbrand_name": "",
+      "gtin_upc": "016291441507",
+      "ingredients": "",
+      "not_a_significant_source_of": "",
+      "serving_size": "0.6",
+      "serving_size_unit": "g",
+      "household_serving_fulltext": "0.25 tsp",
+      "branded_food_category": "Herbs & Spices",
+      "data_source": "LI",
+      "package_weight": "",
+      "modified_date": "2017-07-14",
+      "available_date": "2019-04-01",
+      "market_country": "United States",
+      "discontinued_date": "",
+      "preparation_state_code": "",
+      "trade_channel": ""
+    }
+  },
+  {
+    "fdc_id": "384466",
+    "data_type": "branded_food",
+    "description": "SAGE",
+    "food_category_id": "",
+    "publication_date": "2019-04-01",
+    "_score": 1,
+    "_search": "common sage",
+    "_exact": true,
+    "_score2": 6,
+    "nutrients": [
+      {
+        "id": "5085478",
+        "fdc_id": "384466",
+        "nutrient_id": "1003",
+        "amount": "0.0",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1003",
+          "name": "Protein",
+          "unit_name": "G",
+          "nutrient_nbr": "203",
+          "rank": "600.0"
+        }
+      },
+      {
+        "id": "5085479",
+        "fdc_id": "384466",
+        "nutrient_id": "1008",
+        "amount": "0.0",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1008",
+          "name": "Energy",
+          "unit_name": "KCAL",
+          "nutrient_nbr": "208",
+          "rank": "300.0"
+        }
+      },
+      {
+        "id": "3465172",
+        "fdc_id": "384466",
+        "nutrient_id": "1004",
+        "amount": "0.0",
+        "data_points": "",
+        "derivation_id": "75",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1004",
+          "name": "Total lipid (fat)",
+          "unit_name": "G",
+          "nutrient_nbr": "204",
+          "rank": "800.0"
+        }
+      },
+      {
+        "id": "3465174",
+        "fdc_id": "384466",
+        "nutrient_id": "1093",
+        "amount": "0.0",
+        "data_points": "",
+        "derivation_id": "75",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1093",
+          "name": "Sodium, Na",
+          "unit_name": "MG",
+          "nutrient_nbr": "307",
+          "rank": "5800.0"
+        }
+      },
+      {
+        "id": "3465173",
+        "fdc_id": "384466",
+        "nutrient_id": "1005",
+        "amount": "0.0",
+        "data_points": "",
+        "derivation_id": "75",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1005",
+          "name": "Carbohydrate, by difference",
+          "unit_name": "G",
+          "nutrient_nbr": "205",
+          "rank": "1110.0"
+        }
+      },
+      {
+        "id": "5085478",
+        "fdc_id": "384466",
+        "nutrient_id": "1003",
+        "amount": "0.0",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1003",
+          "name": "Protein",
+          "unit_name": "G",
+          "nutrient_nbr": "203",
+          "rank": "600.0"
+        }
+      },
+      {
+        "id": "5085479",
+        "fdc_id": "384466",
+        "nutrient_id": "1008",
+        "amount": "0.0",
+        "data_points": "",
+        "derivation_id": "70",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1008",
+          "name": "Energy",
+          "unit_name": "KCAL",
+          "nutrient_nbr": "208",
+          "rank": "300.0"
+        }
+      },
+      {
+        "id": "3465172",
+        "fdc_id": "384466",
+        "nutrient_id": "1004",
+        "amount": "0.0",
+        "data_points": "",
+        "derivation_id": "75",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1004",
+          "name": "Total lipid (fat)",
+          "unit_name": "G",
+          "nutrient_nbr": "204",
+          "rank": "800.0"
+        }
+      },
+      {
+        "id": "3465174",
+        "fdc_id": "384466",
+        "nutrient_id": "1093",
+        "amount": "0.0",
+        "data_points": "",
+        "derivation_id": "75",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1093",
+          "name": "Sodium, Na",
+          "unit_name": "MG",
+          "nutrient_nbr": "307",
+          "rank": "5800.0"
+        }
+      },
+      {
+        "id": "3465173",
+        "fdc_id": "384466",
+        "nutrient_id": "1005",
+        "amount": "0.0",
+        "data_points": "",
+        "derivation_id": "75",
+        "min": "",
+        "max": "",
+        "median": "",
+        "footnote": "",
+        "min_year_acquired": "",
+        "nutrientData": {
+          "id": "1005",
+          "name": "Carbohydrate, by difference",
+          "unit_name": "G",
+          "nutrient_nbr": "205",
+          "rank": "1110.0"
+        }
+      }
+    ],
+    "attributes": {
+      "protein": "0.0 G",
+      "kcal": "0.0 KCAL",
+      "fat": "0.0 G",
+      "carbs": "0.0 G",
+      "serving": "0.25 tsp"
+    },
+    "brandedData": {
+      "fdc_id": "384466",
+      "brand_owner": "Morton Bassett Inc.",
+      "brand_name": "",
+      "subbrand_name": "",
+      "gtin_upc": "016291441507",
+      "ingredients": "",
+      "not_a_significant_source_of": "",
+      "serving_size": "0.6",
+      "serving_size_unit": "g",
+      "household_serving_fulltext": "0.25 tsp",
+      "branded_food_category": "Herbs & Spices",
+      "data_source": "LI",
+      "package_weight": "",
+      "modified_date": "2017-07-14",
+      "available_date": "2019-04-01",
+      "market_country": "United States",
+      "discontinued_date": "",
+      "preparation_state_code": "",
+      "trade_channel": ""
+    }
+  }
+]
