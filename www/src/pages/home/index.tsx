@@ -13,7 +13,6 @@
  * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
  */
 
-import _ from "lodash";
 import { Component } from "react";
 import * as d3 from 'd3-selection';
 import * as d3Drag from 'd3-drag';
@@ -76,66 +75,50 @@ class HomeWizard extends Component<HomeWizardProps, HomeWizardState> {
       const resources = (await ResourceService.listResource({}));
       this.resources = resources.map((resource)=>{
 
-              resource = {
-                  remoteId: resource.remoteId,
-                  name: resource.name,
-                  deps: resource.deps,
-                  attributes: {
-                      hasDeps: false,
-                      isPublic: false,
-                      ...resource.attributes
-                  },
-              };
-              resource.attributes.IpPermissions.forEach((ipPermission) => {
-                  if (ipPermission.IpRanges.length > 0) {
-                      resource._publicIndex = this.publicCount;
-                      this.publicCount += 1;
+          resource = {
+              remoteId: resource.remoteId,
+              name: resource.name,
+              deps: resource.deps,
+              attributes: {
+                  hasDeps: false,
+                  isPublic: false,
+                  ...resource.attributes
+              },
+          };
+          resource.attributes.IpPermissions.forEach((ipPermission) => {
+              if (ipPermission.IpRanges.length > 0) {
+                  resource._publicIndex = this.publicCount;
+                  this.publicCount += 1;
 
-                      resource.attributes.isPublic = true;
-                  }
-              });
-              if (resource.deps.length > 0) {
-                  resource.attributes.hasDeps = true;
-
-
-              }else {
-                  resource._notHasDepsIndex  = this.notHasDepsCount;
-                  this.notHasDepsCount += 1;
+                  resource.attributes.isPublic = true;
               }
-              return resource;
-          })
+          });
+          if (resource.deps.length > 0) {
+              resource.attributes.hasDeps = true;
+
+
+          }else {
+              resource._notHasDepsIndex  = this.notHasDepsCount;
+              this.notHasDepsCount += 1;
+          }
+          return resource;
+      });
       this.resources.forEach((resource) => {
-          resource.depObjs = [];
           if (resource.deps.length === 0) {
               return
           }
-
+          resource.depObjs = [];
           resource.deps.forEach((depId) => {
               const dep = this.resources.find((d) => d.remoteId === depId);
               dep.attributes.isDep = true;
               resource.depObjs.push(dep);
-              dep.parents = dep.parents || [];
-              dep.parents.push(resource);
               links.push({
                   source: resource,
                   target: dep
               });
           });
       });
-      this.maxDeps = 0;
-      /*this.resources.forEach((resource) => {
-          if(
-              !resource.parents ||
-              resource.parents.length === 0
-          ) {
-              resource.attributes.depth = 0;
-              resource.depObjs.forEach((dep) => {
-                  this.calcChildren(dep, resource);
-              })
 
-          }
-
-      });*/
       this.svgParent = d3.select<SVGElement, any>("svg");
       if(!this.svgParent){
           throw new Error("Missing `this.svGParent`");
@@ -169,11 +152,6 @@ class HomeWizard extends Component<HomeWizardProps, HomeWizardState> {
           .force('x', d3Force.forceX()
               .x((resource: any) => {
 
-                  /*let pct = resource.attributes.depth/this.maxDeps;
-                  if (_.isNaN(pct)) {
-                      pct = 0;
-                  }
-                  return pct * (parseInt(this.svgParent.style("width"), 10) - this.padding);*/
                   if(resource.attributes.isPublic) {
                       return this.padding;
                   }
@@ -181,11 +159,12 @@ class HomeWizard extends Component<HomeWizardProps, HomeWizardState> {
                       return parseInt(this.svgParent.style("width"), 10)/2; // null;
                   }
                   return parseInt(this.svgParent.style("width"), 10) - this.padding;
+
               })
               .strength((resource: any) => {
 
                   if(resource.attributes.isPublic) {
-                      return 1;
+                      return .1;
                   }
                   if (resource.attributes.hasDeps) {
                       return 1; // 0
@@ -438,19 +417,7 @@ class HomeWizard extends Component<HomeWizardProps, HomeWizardState> {
     );
   }
 
-    private calcChildren(resource: any, parent?:any) {
-        if (!_.isUndefined(resource.attributes.depth)) {
-            return;
-        }
-        resource.attributes.depth = parent.attributes.depth + 1;
-        if (resource.attributes.depth > this.maxDeps) {
-            this.maxDeps = resource.attributes.depth;
-        }
-        resource.depObjs.forEach((dep) => {
-            this.calcChildren(dep, resource);
-        });
 
-    }
 }
 
 export default HomeWizard;
