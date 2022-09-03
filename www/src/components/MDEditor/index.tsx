@@ -17,6 +17,7 @@ Coded by www.creative-tim.com
 import ReactQuill from "react-quill";
 
 // react-quill styles
+//es-lint:ignore
 import "react-quill/dist/quill.snow.css";
 
 // Custom styles for the MDEditor

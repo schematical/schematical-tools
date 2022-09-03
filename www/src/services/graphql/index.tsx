@@ -1,46 +1,12 @@
-const listCropSpecies = `
-query listCropSpecies($input: CropSpeciesFilterInput!){
-  listCropSpecies(input:$input) {
+const listResource = `
+query {
+  listResource {
     _id
-    importId
     name
-    lowTemp
-    highTemp
-    sewingMethods
-    otherNames
-    harvestDayMin
-    harvestDayMax
-    maxSpacingInCM
-    minSpacingInCM
+    remoteId
     attributes
+    deps
   }
 }
 `;
-const listGeoLocations = `
-query listGeoLocation($input: GeoLocationFilterInput!){
-  listGeoLocation(input:$input) {
-    _id
-    city
-    state
-    country
-    location
-    nearestMatch{
-      _id
-      city
-    }
-}
-}`;
-const getCropSpecieDataByGeoLocation = `
-query ($input: CropSpecieDataByGeoLocationInput) {
-  getCropSpecieDataByGeoLocation(input: $input) {
-    cropSpecies {
-      _id
-      name
-      harvestDayMin
-      harvestDayMax
-    },
-    earlyStartMonth,
-    lateStartMonth
-  }
-}`;
-export { listGeoLocations, listCropSpecies, getCropSpecieDataByGeoLocation };
+export { listResource };

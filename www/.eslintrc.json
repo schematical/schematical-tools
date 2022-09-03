@@ -32,14 +32,18 @@
       { "ts": "never", "tsx": "never", "js": "never" }
     ],
     "react/jsx-filename-extension": ["warn", { "extensions": [".tsx"] }],
-    "import/no-extraneous-dependencies": ["error", { "devDependencies": true }],
+    "import/no-extraneous-dependencies": ["warn", { "devDependencies": true }],
     "arrow-body-style": "off",
     "no-underscore-dangle": "off",
     "react/no-unused-state": "warn",
     "class-methods-use-this": "off",
     "spaced-comment": "off",
     "react/no-unused-class-component-methods": "off",
-    "react/sort-comp": "off"
+    "react/sort-comp": "off",
+    "lines-between-class-members": "warn",
+    "no-param-reassign": "off",
+    "import/prefer-default-export": "warn",
+    "prefer-arrow-callback": "warn"
   },
   "settings": {
     "import/resolver": {

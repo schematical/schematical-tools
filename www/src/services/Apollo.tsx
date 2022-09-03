@@ -4,7 +4,7 @@ import {
 } from "@apollo/client";
 
 const client = new ApolloClient({
-    uri: 'http://localhost:3000/dev/graphql',
+    uri: 'http://localhost:8080/dev/graphql',
     cache: new InMemoryCache()
 });
 export default client;
